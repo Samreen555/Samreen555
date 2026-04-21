@@ -149,10 +149,10 @@ Passionate about building functional software, learning new technologies, and co
 | :--- | :--- | :--- |
 | Gamification Learning with Genially | Coursera | [Verify](https://www.coursera.org/account/accomplishments/certificate/O1G8CUI1H4DD) |
 | Python Programming Fundamentals | Coursera | [Verify](https://www.coursera.org/account/accomplishments/certificate/W6168TJ8YBV9) |
-| Introduction to GitHub Copilot | Microsoft Learn | [Module Link](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/) |
-| Responsible AI with GitHub Copilot | Microsoft Learn | [Module Link](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/) |
-| Introduction to GitHub | Microsoft Learn | [Module Link](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) |
-| Introduction to Git | Microsoft Learn | [Module Link](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) |
+| Introduction to GitHub Copilot | Microsoft Learn | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/SamreenFarhat-1101/7BRYPHVZ?sharingId=FB91F7492D6B3D2) |
+| Responsible AI with GitHub Copilot | Microsoft Learn | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/SamreenFarhat-1101/7BRXUF8Z?sharingId=FB91F7492D6B3D2) |
+| Introduction to GitHub | Microsoft Learn | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/SamreenFarhat-1101/NM83SDHF?sharingId=FB91F7492D6B3D2) |
+| Introduction to Git | Microsoft Learn | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/SamreenFarhat-1101/DUKPRVXJ?sharingId=FB91F7492D6B3D2) |
 
 ---
 
