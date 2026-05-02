@@ -6,7 +6,7 @@ Islamabad, Pakistan | 03208254148 | [farhatsamreen8@gmail.com](mailto:farhatsamr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samreen-farhat-2275972a4)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Samreen555)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://samreen555.github.io/samreen-farhat-portfolio/#home)
 
 ---
 
