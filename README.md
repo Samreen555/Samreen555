@@ -12,7 +12,7 @@ Islamabad, Pakistan | 03208254148 | [farhatsamreen8@gmail.com](mailto:farhatsamr
 
 ## About Me
 
-Software Engineering student at Bahria University, Islamabad (CGPA: 3.56/4.00) with hands-on experience in full-stack development, game design, and system programming. Skilled in Python, C++, Flask, MySQL, HTML/CSS, JavaScript, and SFML, with a strong foundation in object-oriented programming, problem-solving, and system design.
+Software Engineering student at Bahria School of Engineering and Applied Sciencs, Islamabad with hands-on experience in full-stack development, game design, and system programming. Skilled in Python, C++, Flask, MySQL, HTML/CSS, JavaScript, and SFML, with a strong foundation in object-oriented programming, problem-solving, and system design.
 
 Passionate about building functional software, learning new technologies, and contributing to innovative projects. Eager to apply technical skills and creative problem-solving in a software development or cybersecurity role.
 
@@ -25,7 +25,7 @@ Passionate about building functional software, learning new technologies, and co
 | **Programming Languages** | Python, C++, JavaScript, HTML/CSS, SQL |
 | **Frameworks & Libraries** | Flask, SFML, ASP.NET Core, Spring Boot |
 | **Tools & Platforms** | Git, MySQL, VS Code, Visual Studio, Cisco Packet Tracer, Docker |
-| **AI & LLMs** | Prompt Engineering, LangChain, LlamaIndex, HuggingFace, Vector Databases, ChatGPT, Copilot, Gemini, Claude, DeepSeek |
+| **AI & LLMs** | Prompt Engineering, ChatGPT, Copilot, Gemini, Claude, DeepSeek |
 | **Development Areas** | Backend Development, Frontend Development (React+Vite), REST APIs, Database Management, Linux/Command-Line |
 
 ---
@@ -106,7 +106,7 @@ Passionate about building functional software, learning new technologies, and co
 
 | Degree | Institution | Year |
 | :--- | :--- | :--- |
-| **Bachelor of Software Engineering** (CGPA: 3.56/4.00) | Bahria University, Islamabad | Sept 2023 - Sept 2027 (Expected) |
+| **Bachelor of Software Engineering** | Bahria University, Islamabad | Sept 2023 - Sept 2027 (Expected) |
 | **Intermediate in Computer Science (ICS)** | Bahria College Zafar Campus, Islamabad | Aug 2021 - Jul 2023 |
 | **Matriculation (Science)** | Bahria College Zafar Campus, Islamabad | Aug 2019 - Jul 2021 |
 
